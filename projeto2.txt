@@ -1,0 +1,7 @@
+*****************Projeto Fase 2************************
+
+Nesta versão teremos apenas o arvivo projeto2.txt sem nenhum conteúdo.
+A versão será: 0.1.0.
+
+
+Na segunda versão novo conteúdo será acrescentado.
