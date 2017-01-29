@@ -3,5 +3,6 @@
 Nesta versão teremos apenas o arvivo projeto2.txt sem nenhum conteúdo.
 A versão será: 0.1.0.
 
+Nesta segunda versão "0.1.1" teremos além desta modificação do arquivo, modificações dentro da branch Funcionalidade2.
 
-Na segunda versão novo conteúdo será acrescentado.
+
